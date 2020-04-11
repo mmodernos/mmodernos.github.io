@@ -1,0 +1,11 @@
+.progress-table .imagen {
+    width: 50%;
+    padding-left: 30px; }
+
+.progress-table .descripcion {
+    width: 50%;
+    padding-right: 50px; }
+
+.section-top-border {
+    padding: 0px 0;
+    border-top: 1px dotted #eee; }
